@@ -216,3 +216,15 @@ Aplikasi ini menerapkan pola **MVC (Model-View-Controller)** dengan tambahan **S
 | Cuaca Kota Terpilih (Purwokerto) | Halaman Kota Favorit |
 | :---: | :---: |
 | ![Cuaca Kota Terpilih](screenshots/04_selected_city_home.png) | ![Halaman Kota Favorit](screenshots/05_favorite_screen.png) |
+
+---
+
+## 15. Video Demonstrasi Aplikasi
+
+Video demonstrasi berikut menampilkan penggunaan aplikasi Cumulus Weather, mulai dari melihat informasi cuaca terkini, mengakses prakiraan cuaca, mencari kota, memilih lokasi, hingga mengelola daftar kota favorit.
+
+**Video Demonstrasi:**
+
+[![Cumulus Weather - Video Demonstrasi](https://img.youtube.com/vi/fXsF1coTsEI/0.jpg)](https://youtu.be/fXsF1coTsEI)
+
+[Klik di sini untuk menonton video demonstrasi Cumulus Weather di YouTube](https://youtu.be/fXsF1coTsEI)
